@@ -1,4 +1,4 @@
-# Análise Técnica de Malware: CadastrarCurriculo.exe (Advanced Installer / Banking Stealer & Spyware)
+# Análise Técnica de Malware: CadastrarCurriculo.exe (Trojan/ Advanced Installer / Banking Stealer & Spyware)
 
 **Data da Análise:** 20/12/2025 <br>
 **SHA256:** 21e06c9ee37d2da327b5d2c8bea6d68d9674ab8b2243005ffb3e8ef7b8965675 <br>
